@@ -28,14 +28,15 @@ I have decided to follow my passions for surfing and eating ice cream and am com
 
 The summary statistics for June are as follows:
 
-
+![__](https://github.com/Johnnytoobadman/surfs_up/blob/main/June%20Temperature%20Statistics.png)
 
 The summary statistics for December are as follows:
 
+![__](https://github.com/Johnnytoobadman/surfs_up/blob/main/December%20temperature%20statistics.png)
 
 ## Summary:
 
-Comparing June to DFecember it is very obvious that the temperature in Oahu does not fluctuate very much.  
+Comparing June to December it appears that the temperature in Oahu does not fluctuate very much.  
 
  - June's average temperature is only approximately 4 degrees warmer than December.  The maximun temperature for June is only 2 degrees warmer. 
   
@@ -51,6 +52,6 @@ Comparing June to DFecember it is very obvious that the temperature in Oahu does
 
  - Additional queries are need to  consider the entire year in terms of temperature statistics.  Why just analyze 2 months?  Why not analyze each quarter? (March, June, September, December).  The additional information may provide greater insight as to the temperature variations throughout the year.  It is not unreasonable to run the analysis on each month of the year.
 
- - Why are we not looking at precipitation AND temperature throughout the year.  In prior anaysis (climate-analysis) both precipitation and temperature statistics were barcharted.  A similar analysis needes to be performed showing both temperature and precipitation in the same chart. 
+ - Why are we not looking at precipitation AND temperature throughout the year.  In a prior analysis (climate-analysis) both precipitation and temperature statistics were barcharted.  A similar analysis needs to be performed showing both temperature and precipitation in the same chart. 
 
  - Scatter plots should be considered to better understand the incidence and quantity of precipitation throughout the year to show to the investors.
